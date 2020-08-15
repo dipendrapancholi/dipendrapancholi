@@ -1,4 +1,4 @@
-### Hi there, I'm Dipendra (WordPress | Web Developer) [dipendrapancholi][website] 👋
+### Hi there, I'm Dipendra (WordPress | Web Developer) 👋
 
 - 🔭 I’m currently working on [WordPress][website]!
 - 🌱 I’m currently learning [Elementor][website]!
