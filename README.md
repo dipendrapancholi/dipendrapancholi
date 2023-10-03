@@ -1,4 +1,4 @@
-### Hi there, I'm Dipendra (WordPress | Web Developer) 👋
+### Hi there, I'm Dipendra (WordPress | WooCommerce | Full Stack | Plugin/Theme Developer) 👋
 
 - 🔭 I’m currently working on [WordPress][website]!
 - 🌱 I’m currently learning [Elementor][website]!
