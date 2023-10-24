@@ -1,4 +1,4 @@
-### Hi there, I'm Dipendra (WordPress | WooCommerce | Full Stack | Plugin/Theme Developer | NodeJS + MongoDB) 👋
+### Hi there, I'm Dipendra (WordPress | WooCommerce | Plugin/Theme Developer | NodeJS + MongoDB) 👋
 
 - 🔭 I’m currently working on [WordPress][website]!
 - 🌱 I’m currently learning [Elementor][website]!
